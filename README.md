@@ -20,12 +20,14 @@
 * Смотрим
   
 ## 🔗 Ссылки и сервисы которые были использованы:
+### Сервисы,из которых я брал ссылки для плейлиста
 * Rutube (`https://bl.rutube.ru/livestream/...`)
 * Ott Club (`http://stream.mcquack.net/...`)
 * Смотрим (`https://stream.smotrim.ru/...`)
 * LLC G&G-Telecom (`http://195.64.140.147/...`)
-* [IPTVru] (https://github.com/smolnp/IPTVru)
-* [DropTV] (https://github.com/IPTVRU2026/IPTVMIR)
+### Github Проекты,из которых я брал ссылки для плейлиста
+* [IPTVru](https://github.com/smolnp/IPTVru)
+* [DropTV](https://github.com/IPTVRU2026/IPTVMIR)
 
 ## ℹ️ Дополнительная Информация
 <details>
