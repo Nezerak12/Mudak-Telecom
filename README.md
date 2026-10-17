@@ -1,7 +1,8 @@
 # Mudak-Telecom
 ### Бесплатный IPTV Плейлист для всех
 ### Проект содержит ссылки из плейлистов, которые были найдены в открытых источниках. Плейлист составляю преимущественно для граждан РФ и Беларуси.
-> https://raw.githubusercontent.com/Nezerak12/Mudak-Telecom/refs/heads/main/MudakTelekomIptv.m3u
+
+[🔗 **Ссылка на плейлист (Raw)**](https://raw.githubusercontent.com/Nezerak12/Mudak-Telecom/main/MudakTelekomIptv.m3u)
 
 ## 📺 Поддерживаемые плееры:
 Все, которые умеют работать с m3u, m3u8 и raw видео потоками.
@@ -29,13 +30,13 @@
 * [IPTVru](https://github.com/smolnp/IPTVru)
 * [DropTV](https://github.com/IPTVRU2026/IPTVMIR)
 
-## Как подключить?
+## 📡 Как подключить?
 ### На примере VLC 
-Откройте VLC -> Медия -> Открыть URL -> Вставте:`https://raw.githubusercontent.com/Nezerak12/Mudak-Telecom/refs/heads/main/MudakTelekomIptv.m3u` -> Воспроизвести
+Откройте VLC -> Медия -> Открыть URL -> Вставте: `https://raw.githubusercontent.com/Nezerak12/Mudak-Telecom/refs/heads/main/MudakTelekomIptv.m3u` -> Воспроизвести
 
 ## ℹ️ Дополнительная Информация
 <details>
-<summary><b>------------------------ Нажмите, чтобы развернуть Доп.Информацию -----------------------</b></summary>
+<summary><b>---------------------- Нажмите, чтобы развернуть 📃 Доп.Информацию -----------------------</b></summary>
 
 ## 📃 Список каналов в плейлисте:
 
