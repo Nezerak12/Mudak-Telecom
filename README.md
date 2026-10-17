@@ -24,7 +24,7 @@
 ### Сервисы,из которых я брал ссылки для плейлиста
 * Rutube (`https://bl.rutube.ru/livestream/...`)
 * Ott Club (`http://stream.mcquack.net/...`)
-* Смотрим (`https://stream.smotrim.ru/...`)
+* Смотрим (`https://stream.smotrim.ru/...` и `https://life.smotrim.ru/...`)
 * LLC G&G-Telecom (`http://195.64.140.147/...`)
 ### Github Проекты,из которых я брал ссылки для плейлиста
 * [IPTVru](https://github.com/smolnp/IPTVru)
