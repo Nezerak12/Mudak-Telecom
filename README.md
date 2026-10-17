@@ -24,7 +24,7 @@
 ### Сервисы,из которых я брал ссылки для плейлиста
 * Rutube (`https://bl.rutube.ru/livestream/...`)
 * Ott Club (`http://stream.mcquack.net/...`)
-* Смотрим (`https://stream.smotrim.ru/...` и `https://life.smotrim.ru/...`)
+* Смотрим (`https://stream.smotrim.ru/...` и `https://live.smotrim.ru/...`)
 * LLC G&G-Telecom (`http://195.64.140.147/...`)
 ### Github Проекты,из которых я брал ссылки для плейлиста
 * [IPTVru](https://github.com/smolnp/IPTVru)
@@ -32,16 +32,16 @@
 
 ## 📡 Как подключить?
 ### На примере VLC 
-Откройте VLC -> Медия -> Открыть URL -> Вставте: `https://raw.githubusercontent.com/Nezerak12/Mudak-Telecom/refs/heads/main/MudakTelekomIptv.m3u` -> Воспроизвести
+Откройте VLC -> Медия -> Открыть URL -> Вставте: `https://raw.githubusercontent.com/Nezerak12/Mudak-Telecom/main/MudakTelekomIptv.m3u` -> Воспроизвести
 
 ## ℹ️ Дополнительная Информация
 <details>
-<summary><b>---------------------- Нажмите, чтобы развернуть 📃 Доп.Информацию -----------------------</b></summary>
+<summary><b> Нажмите, чтобы развернуть 📃 Доп.Информацию </b></summary>
 
 ## 📃 Список каналов в плейлисте:
 
 <details>
-<summary><b>--------------------- Нажмите, чтобы развернуть список 📺 ТВ-каналов -----------------------</b></summary>
+<summary><b> Нажмите, чтобы развернуть список 📺 ТВ-каналов </b></summary>
 
 ### 📺 Группа ТВ
 * Первый канал
@@ -171,7 +171,7 @@
 </details>
 
 <details>
-<summary><b>--------------------- Нажмите, чтобы развернуть список 📻 Радиостанций --------------------</b></summary>
+<summary><b> Нажмите, чтобы развернуть список 📻 Радиостанций </b></summary>
 
 ### 📻 Группа Радио
 * Радио России
