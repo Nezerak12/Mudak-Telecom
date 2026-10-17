@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
-#PLAYLIST:MudakTelecom https://github.com/Nezerak12/Mudak-Telecom/
+#PLAYLIST:MudakTelecom
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="ТВ" ,Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=698ByfaXoRZxSTAYzpCkaw&e=2091788900&scheme=https
