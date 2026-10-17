@@ -13,10 +13,10 @@
 **133 Канала** (110 ТВ Каналов и 23 Радио Станции)
 
 ## Ссылки и сервисы которые были использованы
-* Rutube (https://bl.rutube.ru/livestream/...)
-* Ott Club (http://stream.mcquack.net/...)
-* Смотрим (https://stream.smotrim.ru/... & https://live.smotrim.ru/... & https://icecast-vgtrk.cdnvideo.ru/...)
-* LLC G&G-Telecom (http://195.64.140.147...)
+* Rutube ('https://bl.rutube.ru/livestream/...')
+* Ott Club ('http://stream.mcquack.net/...')
+* Смотрим ('https://stream.smotrim.ru/...' & 'https://live.smotrim.ru/...' & 'https://icecast-vgtrk.cdnvideo.ru/...')
+* LLC G&G-Telecom ('http://195.64.140.147...')
 
 ## Дополнительная Информация
 <details>
