@@ -26,6 +26,7 @@
 * Ott Club (`http://stream.mcquack.net/...`)
 * Смотрим (`https://stream.smotrim.ru/...` и `https://live.smotrim.ru/...`)
 * LLC G&G-Telecom (`http://195.64.140.147/...`)
+* НТВ `https://cdn.ntv.ru/...`)
 ### Github Проекты,из которых я брал ссылки для плейлиста
 * [IPTVru](https://github.com/smolnp/IPTVru)
 * [DropTV](https://github.com/IPTVRU2026/IPTVMIR)
@@ -47,7 +48,6 @@
 * Первый канал
 * Россия 1
 * Матч
-* НТВ
 * Пятый канал
 * Россия К
 * Россия 24
@@ -94,6 +94,10 @@
 * FON music
 * MusicBox Russian
 * Cinema
+* TLC
+* Анимач
+* Анимач 2
+* National Geographic 
 * Боец
 * .black
 * .Red
@@ -105,20 +109,27 @@
 * Дом Кино
 * Дом кино Премиум
 
-### 🎵 Группа Bridge
+### 🎵 Bridge
 * Bridge TV
 * Bridge TV Hits
 * Bridge TV Deluxe
 * Bridge TV Русский Хит
 * Baby Time
 
-### 🎞️ Группа Amedia
+### 🅰️ Amedia
 * Amedia 1
 * Amedia 2
 * Amedia Premium
 * Amedia Hit
 
-### 🇷🇺 Группа Смотрим
+### 🟩 НТВ
+* НТВ
+* НТВ Стиль
+* НТВ Сериал
+* НТВ Право
+* НТВ Неизвестная Россия
+
+### 🇷🇺 Смотрим
 * Смотрим 100% Любовь
 * Смотрим 100% Мужское
 * Смотрим 100% Классика
@@ -127,7 +138,7 @@
 * Смотрим 100% Факты
 * Смотрим 100% Горького
 
-### 🎬 Группа Viju
+### 🎬 Viju
 * Viju TV1000
 * Viju TV1000 Action
 * Viju TV1000 Русское
@@ -141,7 +152,7 @@
 * Viju+ Sport
 * Viju+ Megahit
 
-### 🎥 Группа Настрой Кино
+### ⏭️ Настрой Кино
 * Кинопремьера
 * Мужское кино
 * Киносерия
@@ -153,7 +164,7 @@
 * Родное кино
 * Индийское Кино
 
-### 📽️ Группа Fresh
+### 💨 Группа Fresh
 * Fresh Rating
 * Fresh Cinema
 * Fresh Premiere
