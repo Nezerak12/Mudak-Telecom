@@ -6,48 +6,18 @@
 
 ## 📺 Поддерживаемые плееры:
 Все, которые умеют работать с m3u, m3u8 и raw видео потоками.
-Проверено на:
-- VLC (Windows 11)
+### Проверено на:
+- VLC (Windows 11,Android 16 Телефон)
 - Kodi (CoreElec 21 Omega, iptv simple client)
-
+- IPTV (Android Приставка)
 ## 📦 Что внутри?
-**133 Канала** (110 ТВ Каналов и 23 Радио Станции)
-### Из них семейство каналов:
-* Bridge TV
-* viju
-* Настрой Кино
-* Fresh
-* Amedia
-* Смотрим
-  
-## 🔗 Ссылки и сервисы которые были использованы:
-### Сервисы,из которых я брал ссылки для плейлиста
-* Rutube (`https://bl.rutube.ru/livestream/...`)
-* Ott Club (`http://stream.mcquack.net/...`)
-* Смотрим (`https://stream.smotrim.ru/...` и `https://live.smotrim.ru/...`)
-* LLC G&G-Telecom (`http://195.64.140.147/...`)
-* НТВ `https://cdn.ntv.ru/...`)
-### Github Проекты,из которых я брал ссылки для плейлиста
-* [IPTVru](https://github.com/smolnp/IPTVru)
-* [DropTV](https://github.com/IPTVRU2026/IPTVMIR)
-
-## 📡 Как подключить?
-### На примере VLC 
-Откройте VLC -> Медия -> Открыть URL -> Вставте: `https://raw.githubusercontent.com/Nezerak12/Mudak-Telecom/main/MudakTelekomIptv.m3u` -> Воспроизвести
-
-## ℹ️ Дополнительная Информация
 <details>
-<summary><b> Нажмите, чтобы развернуть 📃 Доп.Информацию </b></summary>
-
-## 📃 Список каналов в плейлисте:
-
-<details>
-<summary><b> Нажмите, чтобы развернуть список 📺 ТВ-каналов </b></summary>
-
-### 📺 Группа ТВ
+<summary><b> XXL Плейлист </b></summary>
+### ТВ
 * Первый канал
 * Россия 1
 * Матч
+* НТВ
 * Пятый канал
 * Россия К
 * Россия 24
@@ -70,66 +40,108 @@
 * Солнце
 * Суббота
 * СТС Love
-* Перец
 * 2x2
 * RU TV
 * Сарафан
+* Перец
+* RT
+* Izвестия
+* Дон 24
+* Радость Моя
 * Авто 24
+* Авто +
+* Моя планета
+* Телекафе
+* Москва 24
 * Бобёр
 * 360RU
+* КВН ТВ
+* Animal Planet
+* Discovery Channel
+* FoodTime
+* РЕТРО
+* Блокбастер
 * Cartoon Network
-* Disney XD
 * Nickelodeon
 * Мама
 * Ani
 * TiJi
-* Мульт
-* Мультиландия
 * СТС Kids
-* O!
+* В Гостях У Сказки
+* О!
+* Мульт
 * Мульт и Музыка
-* Europa Plus TV
 * Жара
-* #Музыка Первого
+* Europa Plus TV
 * FON music
-* MusicBox Russian
+* #Музыка Первого
+* Russian Music Box
+* 1HD Music Television
+* O!2
 * Cinema
 * TLC
-* Анимач
-* Анимач 2
-* National Geographic 
-* Боец
-* .black
-* .Red
-* .sci-fi
+* National Geographic
+* National Geographic WILD
 * FAN
-* Hollywood
+* ПРОDВИЖЕНИЕ
 * Кино ТВ
 * Кинопоказ
 * Дом Кино
-* Дом кино Премиум
-
-### 🎵 Bridge
-* Bridge TV
-* Bridge TV Hits
-* Bridge TV Deluxe
-* Bridge TV Русский Хит
+* Дом Кино Премиум
+* НСТ
+* Hollywood
+* FOX
+* FOX life
+* Русский Бестеллер
+* Русский Детектив
+* Русский Роман
+* .black
+* .red
+* .Sci-Fi
+* MMA-TV
+### Bridge
 * Baby Time
-
-### 🅰️ Amedia
+* Bridge TV
+* Bridge Rock
+* Bridge Русский Хит
+* Bridge Hits
+* Bridge Classic
+* Bridge Deluxe
+* Bridge Шлягер
+### Travel
+* Travel Channel
+* Travel+Adventure
+* Travelxp
+### Rutube
+* Анимач
+* Анимач 2
+* Мультач
+* Фильмач
+* Образовач
+* Индивач
+* Амерекач
+* Музач
+### Amedia
 * Amedia 1
 * Amedia 2
-* Amedia Premium
 * Amedia Hit
-
-### 🟩 НТВ
-* НТВ
+* Amedia Premium
+### Матч!
+* Матч! Премьер
+* Матч! Боец
+* Матч! Арена
+* Матч! Игра
+* Матч! Страна
+* Матч! Футбол 1
+* Матч! Футбол 2
+* Матч! Футбол 3
+### НТВ
 * НТВ Стиль
 * НТВ Сериал
 * НТВ Право
+* НТВ Хит
 * НТВ Неизвестная Россия
-
-### 🇷🇺 Смотрим
+### Смотрим
 * Смотрим 100% Любовь
 * Смотрим 100% Мужское
 * Смотрим 100% Классика
@@ -137,11 +149,15 @@
 * Смотрим 100% Детское
 * Смотрим 100% Факты
 * Смотрим 100% Горького
-
-### 🎬 Viju
+* Смотрим 100% К Одному
+* Смотрим 100% Ток-Шоу
+* Смотрим Честный Детектив
+### Viju
 * Viju TV1000
 * Viju TV1000 Action
 * Viju TV1000 Русское
+* Viju TV1000 Romantica
+* Viju TV1000 Novalla
 * Viju Explore
 * Viju History
 * Viju Nature
@@ -151,20 +167,19 @@
 * Viju+ Premiere
 * Viju+ Sport
 * Viju+ Megahit
-
-### ⏭️ Настрой Кино
-* Кинопремьера
-* Мужское кино
-* Киносерия
-* Киносемья
+### Настрой Кино
 * Кинокомедия
 * Киномикс
 * Киноужас
+* Киносемья
+* Киносерия
 * Киносвидание
+* Кинохит
 * Родное кино
+* Наше Новое Кино
+* Мужское Кино
 * Индийское Кино
-
-### 💨 Группа Fresh
+### Fresh
 * Fresh Rating
 * Fresh Cinema
 * Fresh Premiere
@@ -178,51 +193,16 @@
 * Fresh Adventure
 * Fresh Romantic
 * Fresh Thriller
-
 </details>
 
+## 📡 Как подключить?
+### На примере VLC 
+Откройте VLC -> Медия -> Открыть URL -> Вставте: `https://raw.githubusercontent.com/Nezerak12/Mudak-Telecom/main/MudakTelekomIptv.m3u` -> Воспроизвести
+
+## ℹ️ Дополнительная Информация
 <details>
-<summary><b> Нажмите, чтобы развернуть список 📻 Радиостанций </b></summary>
-
-### 📻 Группа Радио
-* Радио России
-* Вести FM
-* Маяк
-* Comedy Радио
-* DFM
-* Радио Energy
-* Like FM
-* Rock FM
-* Studio 21
-* Авто Радио
-* Радио Дача
-* Радио Jazz
-* Радио Максимум
-* Дорожное Радио
-* Радио Комсомольская Правда
-* Europa Plus
-* Русский Хит
-* Ретро FM
-* Радио Record
-* Relax FM
-* Радио Шансон
-* Радио Мир
-* Русское Радио
-
-</details>
-
-## 📐 Таблица разрешений кадра телеканалов:
-* **nHD** — 640 × 360 (16:9)
-* **SDTV 480i** — 720 × 480 (4:3)
-* **EDTV 480p** — 720 × 480 (16:9)
-* **480p** — 854 × 480 (16:9)
-* **D1** — 704 × 576 (16:9)
-* **SDTV 576i** — 720 × 576 (4:3)
-* **EDTV 576p** — 720 × 576 (16:9)
-* **WSVGA** — 1024 × 576 (16:9)
-* **HD ready** — 1280 × 720 (16:9)
-* **HD** — 1920 × 1080 (16:9)
-
+<summary><b> Нажмите, чтобы развернуть 📃 Доп.Информацию </b></summary>
+  
 ## Для тех,кто хочет делать плейлисты
 ### [Ksenia m3u Editor](https://github.com/smolnp/Ksenia/tree/main)
 Реально годная штука
