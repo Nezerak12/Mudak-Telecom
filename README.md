@@ -432,11 +432,10 @@
 ## Линейка своих телеканалов
 (Свои телеканалы,имеется ввиду каналы которые можно встретить только в нашем плейлисте)
 ### Мы имеем линейку каналов Rutube в из состав входит:
-  ```html
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach.png" width="600" />
-  </p>
-  ```
+
+   ```markdown
+   ![Описание картинки](https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach.png)
+   ```
 
 ## ⚖️ Юридическая информация
 
