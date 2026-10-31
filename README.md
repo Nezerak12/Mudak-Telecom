@@ -434,10 +434,10 @@
 ### Мы имеем линейку каналов Rutube в из состав входит:
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/ntv.png" width="40" height="40" align="middle"> НТВ</li>
-  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach.png" width="40" height="40" align="middle"> СТС</li>
-  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach_2.png" width="40" height="40" align="middle"> ТНТ</li>
+  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach.png" width="40" height="40" align="middle"> Анимач</li>
+  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach_2.png" width="40" height="40" align="middle"> Анимач 2</li>
 </ul>
+  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/multach.png" width="40" height="40" align="middle"> Мультач</li>
 
 
 ## ⚖️ Юридическая информация
