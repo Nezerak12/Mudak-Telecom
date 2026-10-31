@@ -433,9 +433,12 @@
 (Свои телеканалы,имеется ввиду каналы которые можно встретить только в нашем плейлисте)
 ### Мы имеем линейку каналов Rutube в из состав входит:
 
-* ![Логотип НТВ](https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach.png) НТВ
-* ![Логотип СТС](https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach_2.png) СТС
-* ![Логотип ТНТ](https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/tnt.png) ТНТ
+<ul>
+  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/ntv.png" width="40" height="40" align="middle"> НТВ</li>
+  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach.png" width="40" height="40" align="middle"> СТС</li>
+  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach_2.png" width="40" height="40" align="middle"> ТНТ</li>
+</ul>
+
 
 ## ⚖️ Юридическая информация
 
