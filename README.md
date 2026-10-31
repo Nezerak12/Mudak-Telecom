@@ -433,9 +433,9 @@
 (Свои телеканалы,имеется ввиду каналы которые можно встретить только в нашем плейлисте)
 ### Мы имеем линейку каналов Rutube в из состав входит:
 
-   ```markdown
-   ![Описание картинки](https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach.png)
-   ```
+* ![Логотип НТВ](https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach.png) НТВ
+* ![Логотип СТС](https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach_2.png) СТС
+* ![Логотип ТНТ](https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/tnt.png) ТНТ
 
 ## ⚖️ Юридическая информация
 
