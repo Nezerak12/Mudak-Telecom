@@ -429,17 +429,6 @@
 
 </details>
 
-## Линейка своих телеканалов
-(Свои телеканалы,имеется ввиду каналы которые можно встретить только в нашем плейлисте)
-### Мы имеем линейку каналов Rutube в из состав входит:
-
-<ul>
-  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach.png" width="40" height="40" align="middle"> Анимач</li>
-  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/animach_2.png" width="40" height="40" align="middle"> Анимач 2</li>
-</ul>
-  <li><img src="https://raw.githubusercontent.com/Nezerak12/MTR/main/icons/multach.png" width="40" height="40" align="middle"> Мультач</li>
-
-
 ## ⚖️ Юридическая информация
 
 В этом репозитории не хранятся видеофайлы. Репозиторий содержит только ссылки на общедоступные URL-адреса видеопотоков, которые, насколько нам известно, были намеренно опубликованы владельцами авторских прав или доступны в открытом доступе.
