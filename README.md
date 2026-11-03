@@ -5,14 +5,16 @@
 ## 📺 Поддерживаемые плееры:
 Все, которые умеют работать с m3u, m3u8 и raw видео потоками.
 ### Проверено на:
+- OTTPlayer (Андроид Приставка) - Рекомендуем
 - VLC (Windows 11,Android 16 Телефон)
 - Kodi (CoreElec 21 Omega, iptv simple client)
 - IPTV (Android Приставка)
 ## 📦 Что внутри?
 <details>
-<summary><b> XXL Плейлист </b></summary>
+<summary><b> XXL Плейлист ( 232 канала = 191 ТВ + 41 Радио ) </b></summary>
   
   ### 📺 ТВ
+
   * Первый канал
   * Россия 1
   * Матч
@@ -44,19 +46,23 @@
   * Сарафан
   * Перец
   * RT
-  * Izвестия
+  * izвестия
   * Дон 24
   * Радость Моя
   * Авто 24
   * Авто +
+  * Живи
   * Моя планета
   * Телекафе
+  * Zooпарк
   * Москва 24
+  * Охотник и рыболов
   * Бобёр
   * 360RU
   * КВН ТВ
   * Animal Planet
   * Discovery Channel
+  * Наша тема
   * FoodTime
   * РЕТРО
   * Блокбастер
@@ -88,7 +94,7 @@
   * Дом Кино
   * Дом Кино Премиум
   * НСТ
-  * Hollywood
+  * bollywood
   * FOX
   * FOX life
   * Русский Бестеллер
@@ -98,6 +104,7 @@
   * .red
   * .Sci-Fi
   * MMA-TV
+  * СТАРТ
   ### 🟧 Bridge
   * Baby Time
   * Bridge TV
@@ -107,6 +114,22 @@
   * Bridge Classic
   * Bridge Deluxe
   * Bridge Шлягер
+  ### ⬛ Record
+  * Record Dance Radio
+  * Record Супер Диско 90x
+  * Record Big Hits
+  * Record Megamix
+  * Record Russian Hits
+  * Record Russian Mix
+  * Record Гоп FM
+  * Record Rock
+  * Record Deep
+  * Record Phonk
+  * Record Drum n Bass
+  * Record Chill-Out
+  * Record Chill-House
+  * Record Techno by Innocence
+  * Record Trance
   ### ✈ Travel
   * Travel Channel
   * Travel+Adventure
@@ -140,6 +163,8 @@
   * НТВ Право
   * НТВ Хит
   * НТВ Неизвестная Россия
+  * НТВ Своя Игра
+  * НТВ Следствие Вели
   ### 🇷🇺 Смотрим
   * Смотрим 100% Любовь
   * Смотрим 100% Мужское
@@ -178,7 +203,7 @@
   * Наше Новое Кино
   * Мужское Кино
   * Индийское Кино
-  ### 💨 Fresh
+  ### 🧊 Fresh
   * Fresh Rating
   * Fresh Cinema
   * Fresh Premiere
@@ -192,10 +217,52 @@
   * Fresh Adventure
   * Fresh Romantic
   * Fresh Thriller
+  ### 📻 Радио
+  * Радио России
+  * Вести FM
+  * Маяк
+  * Comedy Радио
+  * DFM
+  * Радио Energy
+  * Радио Культура
+  * Like FM
+  * Love Радио
+  * Rock FM
+  * Радио Юность
+  * Studio 21
+  * Авто Радио
+  * Бизнес FM
+  * #Говорит Москва
+  * Песни от всей Души
+  * Радио Гордость
+  * Радио Дача
+  * Детское радио
+  * Радио Jazz
+  * Жара FM
+  * Радио Максимум
+  * Дорожное Радио
+  * Радио Комсомольская Правда
+  * Europa Plus
+  * Русский Хит
+  * Ретро FM
+  * Радио Москвы
+  * Relax FM
+  * Радио Шансон
+  * Радио Мир
+  * Русское Радио
+  * Юмор FM
+  * Первое Спортивное Радио
+  * Радио Орфей
+  * Радио SPUTNIK
+  * Новое Радио
+  * Радио Калина Красная
+  * Радио Monte Carlo
+  * Радио Шоколад
+  * Радио РБК    
 </details>
 
 <details>
-<summary><b> DEFAULT Плейлист </b></summary>
+<summary><b> DEFAULT Плейлист ( 143 канала = 140 ТВ + 3 Радио ) </b></summary>
   
   ### 📺 ТВ
   * Первый канал
@@ -231,9 +298,8 @@
   * Моя планета
   * Телекафе
   * RT
-  * Izвестия
+  * izвестия
   * Москва 24
-  * Бобёр
   * 360RU
   * Discovery Channel
   * Animal Planet
@@ -253,9 +319,9 @@
   * TLC
   * Travel Channel
   * National Geographic
-  * National Geographic WILD
   * FAN
-  * Hollywood
+  * ПРОDВИЖЕНИЕ
+  * Bollywood
   * Кино ТВ
   * Кинопоказ
   * Дом Кино
@@ -271,6 +337,22 @@
   * Bridge TV Hits
   * Bridge TV Classic
   * Bridge TV Шлягер
+  ### ⬛ Record
+  * Record Dance Radio
+  * Record Супер Диско 90x
+  * Record Big Hits
+  * Record Megamix
+  * Record Russian Hits
+  * Record Russian Mix
+  * Record Гоп FM
+  * Record Rock
+  * Record Deep
+  * Record Phonk
+  * Record Drum n Bass
+  * Record Chill-Out
+  * Record Chill-House
+  * Record Techno by Innocence
+  * Record Trance
   ### ⚡ Rutube
   * Анимач
   * Анимач 2
@@ -295,6 +377,8 @@
   * НТВ Право
   * НТВ Хит
   * НТВ Неизвестная Россия
+  * НТВ Своя Игра
+  * НТВ Следствие Вели
   ### 🇷🇺 Смотрим
   * Смотрим 100% Любовь
   * Смотрим 100% Мужское
@@ -333,30 +417,10 @@
   * Радио России
   * Вести FM
   * Маяк
-  * Comedy Радио
-  * DFM
-  * Радио Energy
-  * Like FM
-  * Rock FM
-  * Studio 21
-  * Авто Радио
-  * Радио Дача
-  * Радио Jazz
-  * Радио Максимум
-  * Дорожное Радио
-  * Радио Комсомольская Правда
-  * Europa Plus
-  * Русский Хит
-  * Ретро FM
-  * Радио Record
-  * Relax FM
-  * Радио Shanson
-  * Радио Мир
-  * Русское Радио
 </details>
 
 <details>
-<summary><b> MINI Плейлист </b></summary>
+<summary><b> MINI Плейлист (39 каналов = 36 ТВ + 3 Радио </b></summary>
 
   ### 📺 ТВ
   * Первый канал
@@ -385,6 +449,8 @@
   * НТВ Право
   * НТВ Хит
   * НТВ Неизвестная Россия
+  * НТВ Своя Игра
+  * НТВ Следствие Вели
   ### 🇷🇺 Смотрим
   * Смотрим 100% Любовь
   * Смотрим 100% Мужское
@@ -407,6 +473,9 @@
 ### [ **DEFAULT**](https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/DEFAULT.m3u): Основной Плейлист
 ### [ **XXL**](https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/XXL.m3u): Расширенный Плейлист, некоторые каналы имеют рекламу, некоторые каналы могут не работать или долго загружатся 
 ### [ **MINI**](https://raw.githubusercontent.com/Nezerak12/MTR/refs/heads/main/MINI.m3u): Уменьшенный Плейлист, 20 Федеральных каналов + каналы Смотрим, НТВ и 3 Радиостанции 
+
+### OTTPlayer
+Плейлист -> + -> Прямая ссылка -> `Ссылка на плейлист` -> ✓
 
 ### VLC 
 Откройте VLC -> Медия -> Открыть URL -> `Ссылка на плейлист` -> Воспроизвести
